@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_run": "2026-10-19",
+  "last_run": "2026-10-26",
   "source_note": "Entries below come from an Instrumentl opportunity-match export supplied by the org on 2026-08-19, which supersedes the earlier web-search results. Deadlines and amounts are as listed in that export. Where a deadline had no year, it was read as 2026 (today is 2026-08-19). Eligibility fit is this system's assessment, not the funder's \u2014 confirm against each NOFO before investing writing time.",
   "correction": "The 2026-08-19 web-search run recorded HFNJ Standard Grants as closing 2026-08-28. The export shows 2026-11-19. The Aug 28 date was an unverified search snippet and is wrong.",
   "tier_1_act_now": [
@@ -20,7 +20,16 @@
       "affiliation_question_RESOLVED": "RESOLVED 2026-10-19 by examining actual 2026 grantees. The overwhelming majority are SECULAR community nonprofits with no Jewish Federation affiliation: Northwest Essex Community Healthcare Network ($300,000, coordinated behavioral health for vulnerable youth and families), Central Jersey Medical Center ($105,842, school-based behavioral health case manager at two Newark schools), Postpartum Support International ($102,500, perinatal mental health in Newark), NJ Chapter of the American Academy of Pediatrics ($90,557), Helen Keller International ($115,000), Visiting Nurse Association of Central NJ ($127,924, Essex County doula program), Breakthrough T1D ($50,000), Family Service League ($100,000 core operating). Only Moving Traditions and JESPY House are Jewish-affiliated. The greater Newark track is plainly open to secular organizations - this was the single longest-standing open question in the pipeline, flagged 2026-08-19.",
       "scale": "HFNJ awarded roughly $5 million across the first three quarters of 2026 - $2.19M in Q1, $686k in Q2, $2.14M across 11 nonprofits in Q3. This is a substantial, active funder, not a marginal one.",
       "closest_comparator": "Northwest Essex Community Healthcare Network's $300,000 award for coordinated behavioral health services for vulnerable youth and families is the closest analogue in the grantee list to this organization's work. It both validates the fit and names a credible partner or benchmark competitor.",
-      "fit_revised": "Raised 25% -> 30% on 2026-10-19: the one eligibility barrier is gone."
+      "fit_revised": "Raised 25% -> 30% on 2026-10-19: the one eligibility barrier is gone.",
+      "TWO_STEP_PROCESS_FOUND": "CRITICAL, found 2026-10-26. Standard applicants cannot submit a proposal directly. They must FIRST complete an Initial Request for Funding Form; HFNJ then contacts those it wants to move forward, and the full application link is only released after that permission. So 2026-11-19 is the deadline for a proposal the org is not yet eligible to submit.",
+      "what_to_do_now": "Submit the Initial Request for Funding Form immediately. It is the gate, it is short, and HFNJ needs time to review it and respond before 2026-11-19. With 24 days left, the two-step sequence is already tight - this is the single most time-sensitive action in the pipeline, and it is small.",
+      "application_materials": "Application text, a grant application logic model, and a grant application budget. Supplemental: project budget and IRS 501(c)(3) determination letter. Most common award type is a 12-month project grant.",
+      "budget_form_detail": "Columns for agency resources, reimbursements and fees, other grants (marked requested or granted), and the HFNJ request. Only the HFNJ Request column is required to submit. Income must equal expenses.",
+      "indirect_costs": "NOT automatically funded - considered case by case. This is the opposite of the federal posture recorded in the org kit, where the 10% de minimis rate should always be elected. Do not carry that advice across to HFNJ.",
+      "review_criterion_to_note": "Sustainability plans play a CRITICAL role in proposal review, per HFNJ's own guidelines. The org kit has a sustainability section and it is entirely placeholdered - this is the section to write first, not last.",
+      "scope_confirmed": "HFNJ accepts applications only in medical and behavioral health care - which explicitly includes behavioral health, workforce training, and public health and prevention. The org sits squarely inside this. It no longer accepts food insecurity, general transportation, or research.",
+      "date_conflict_noted": "A third-party listing gives a 2026-05-20 Community Health Grants deadline, which has passed and conflicts with HFNJ's own page. Rely on hfnj.org: 2026-11-19.",
+      "source": "https://hfnj.org/applications-deadlines/ and https://hfnj.org/grant-guidelines/"
     },
     {
       "title": "Core Operating Support grants",
