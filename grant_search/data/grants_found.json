@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_run": "2026-10-26",
+  "last_run": "2026-11-02",
   "source_note": "Entries below come from an Instrumentl opportunity-match export supplied by the org on 2026-08-19, which supersedes the earlier web-search results. Deadlines and amounts are as listed in that export. Where a deadline had no year, it was read as 2026 (today is 2026-08-19). Eligibility fit is this system's assessment, not the funder's \u2014 confirm against each NOFO before investing writing time.",
   "correction": "The 2026-08-19 web-search run recorded HFNJ Standard Grants as closing 2026-08-28. The export shows 2026-11-19. The Aug 28 date was an unverified search snippet and is wrong.",
   "tier_1_act_now": [
@@ -29,7 +29,8 @@
       "review_criterion_to_note": "Sustainability plans play a CRITICAL role in proposal review, per HFNJ's own guidelines. The org kit has a sustainability section and it is entirely placeholdered - this is the section to write first, not last.",
       "scope_confirmed": "HFNJ accepts applications only in medical and behavioral health care - which explicitly includes behavioral health, workforce training, and public health and prevention. The org sits squarely inside this. It no longer accepts food insecurity, general transportation, or research.",
       "date_conflict_noted": "A third-party listing gives a 2026-05-20 Community Health Grants deadline, which has passed and conflicts with HFNJ's own page. Rely on hfnj.org: 2026-11-19.",
-      "source": "https://hfnj.org/applications-deadlines/ and https://hfnj.org/grant-guidelines/"
+      "source": "https://hfnj.org/applications-deadlines/ and https://hfnj.org/grant-guidelines/",
+      "revised_recommendation": "As of 2026-11-02, 17 days is not enough for the two-step process: HFNJ must receive the Initial Request, review it, invite the org forward, and then receive a full proposal with logic model and budget. Target 2027-02-10 instead - 100 days, funding starting July 2027. Submit the Initial Request for Funding Form NOW regardless: it is short, it starts the relationship, and HFNJ may hold a late request for the next cycle."
     },
     {
       "title": "Core Operating Support grants",
@@ -43,6 +44,19 @@
       "why_this_matters_more_than_the_standard_grant": "$100,000 unrestricted is a third of this organization's annual budget, with no project restriction. Unrestricted money funds the infrastructure that every restricted grant assumes already exists - the data systems, the staff time, the audit - which is precisely what the org kit's 106 empty placeholders represent. Only three items in the entire pipeline offer unrestricted funds, and this is the largest by a wide margin.",
       "open_question": "Whether this is an invitation-only initiative or accepts applications, and whether a further cycle is planned. The first cohort was announced January 2026.",
       "action": "Ask HFNJ about core operating support in the same conversation as the Standard Grant."
+    },
+    {
+      "title": "Special One-time Grants",
+      "funder": "The Healthcare Foundation of New Jersey",
+      "grant_type": "private_foundation",
+      "amount": "Under $25,000",
+      "deadline": "rolling",
+      "fit": "best_near_term_entry_point",
+      "first_seen": "2026-08-19",
+      "emphasised": "2026-11-02",
+      "summary": "Requests under $25,000, handled on a ROLLING basis and separately from the quarterly cycle. Noted on 2026-08-19 but never given its due.",
+      "why_this_is_now_the_best_move": "It is the only door at this funder with no deadline at all. Every other item in this pipeline has died against a date; this one cannot. It is at the funder whose eligibility, scope, activity and application mechanics are now fully established - more than for any other entry here. A modest first award builds the grantee relationship that makes the February Standard Grant materially more likely, and answers the 'who else has funded you' question that every subsequent funder asks.",
+      "action": "Submit whenever ready. Nothing is lost by starting here."
     }
   ],
   "tier_2_strong_fit_later_deadline": [
@@ -239,13 +253,6 @@
     }
   ],
   "tier_3_possible_needs_research": [
-    {
-      "title": "State Justice Institute Project Grant",
-      "funder": "State Justice Institute",
-      "amount": "Up to $300,000",
-      "deadline": "2026-11-01",
-      "note": "SJI funds state court improvement. The org's recovery court and IDRC partnerships could make it a program partner on a court-led application rather than the applicant of record."
-    },
     {
       "title": "Preventive Health Services Grant Program",
       "funder": "NJ Department of Health",
@@ -527,6 +534,15 @@
       "what_still_holds": "Budget band ($250k-$5M) and eligible locations including New Jersey are consistent across sources, as is the volunteer-hosting requirement and the $50,000 unrestricted award. The eligibility findings stand; the timing and theme do not.",
       "action": "Check citizensbank.com/champions directly before investing any effort. Nine days is enough to apply but not enough to waste. Note that search has been wrong before on this pipeline - it gave a false HFNJ date in August and contradicted the Second Chance Act date eight times while the export was correct - so this needs the funder page, not another search.",
       "closed_on": "2026-10-05"
+    },
+    {
+      "title": "State Justice Institute Project Grant",
+      "funder": "State Justice Institute",
+      "amount": "Up to $300,000",
+      "deadline": "2026-11-01",
+      "note": "Never pursued. SJI funds state court systems, so the only route was as named partner on a court-led application - which needed a court to initiate months earlier.",
+      "status": "EXPIRED 2026-11-01",
+      "closed_on": "2026-11-02"
     }
   ],
   "status_2026_09_14": {
@@ -580,5 +596,17 @@
       "note": "Two further BJA FY26 tracks surfaced today that were never in the pipeline and have now passed: Public Safety and Mental Health Initiative (Grants.gov 2026-09-25, ~13 awards, pre-arrest through reentry) and Comprehensive Opioid, Stimulant and Substance Use Site-Based (2026-09-24). Crisis Response Training closes on Grants.gov today, 2026-10-05, so it is also out of reach. All three were part of the same DOJ package; the Instrumentl export carried only two of the five tracks.",
       "lesson": "The export was not exhaustive. For the FY27 DOJ cycle, check the full BJA solicitation list directly rather than relying on a matching service to surface every track."
     }
-  ]
+  ],
+  "hfnj_cycle_schedule": {
+    "found": "2026-11-02",
+    "source": "hfnj.org/applications-deadlines/",
+    "quarterly_deadlines": {
+      "2026-11-19": "funding starts March 2027",
+      "2027-02-10": "funding starts July 2027",
+      "2027-05-19": "funding starts October 2027",
+      "2027-08-12": "funding starts December 2027"
+    },
+    "deadline_is_firm": "5pm ET on the day listed. Late applications are declined OR MAY BE HELD FOR A FUTURE CYCLE - so a late Initial Request is not wasted effort, it rolls.",
+    "what_this_changes": "Missing 2026-11-19 costs a funding start date, not the opportunity. 2027-02-10 is the next Standard Grant deadline and gives 100 days - enough to fill the org kit, write a real sustainability plan (which HFNJ weighs critically), and submit something competitive rather than rushed."
+  }
 }

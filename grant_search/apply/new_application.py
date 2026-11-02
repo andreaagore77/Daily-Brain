@@ -238,4 +238,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BrokenPipeError:
+        # Piping into head/less closes stdout early; that is not an error here.
+        try:
+            sys.stdout.close()
+        except BrokenPipeError:
+            pass
