@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_run": "2026-11-02",
+  "last_run": "2026-11-09",
   "source_note": "Entries below come from an Instrumentl opportunity-match export supplied by the org on 2026-08-19, which supersedes the earlier web-search results. Deadlines and amounts are as listed in that export. Where a deadline had no year, it was read as 2026 (today is 2026-08-19). Eligibility fit is this system's assessment, not the funder's \u2014 confirm against each NOFO before investing writing time.",
   "correction": "The 2026-08-19 web-search run recorded HFNJ Standard Grants as closing 2026-08-28. The export shows 2026-11-19. The Aug 28 date was an unverified search snippet and is wrong.",
   "tier_1_act_now": [
@@ -608,5 +608,20 @@
     },
     "deadline_is_firm": "5pm ET on the day listed. Late applications are declined OR MAY BE HELD FOR A FUTURE CYCLE - so a late Initial Request is not wasted effort, it rolls.",
     "what_this_changes": "Missing 2026-11-19 costs a funding start date, not the opportunity. 2027-02-10 is the next Standard Grant deadline and gives 100 days - enough to fill the org kit, write a real sustainability plan (which HFNJ weighs critically), and submit something competitive rather than rushed."
+  },
+  "essex_county_opening": {
+    "found": "2026-11-09",
+    "primary_source": "https://www.nj.gov/opioidfunds/documents/reports/2026-counties/FY26%20Essex%20County.pdf",
+    "finding": "Essex County's own FY2026 opioid abatement report states it spent NOTHING in the current reporting period and holds roughly $3.0 MILLION in unspent, uncommitted abatement funds. It has completed an Opioid Use Disorder Needs Assessment and built a framework and recommendations grounded in the Johns Hopkins Bloomberg School principles and the Public Health Model - but concedes it has NOT finalized specific spending allocations by year.",
+    "why_this_beats_an_open_rfa": "There is no competition to enter yet. Essex has the money, a stated framework, and an unfinished allocation plan. An organization that engages while allocations are being decided helps shape what gets funded; one that waits for a published RFA competes inside parameters someone else set. This is the earliest and most favourable point at which to approach a funder, and it exists only because the plan is unfinished.",
+    "the_org_fits_the_stated_framework": "The Public Health Model and the Johns Hopkins principles both favour evidence-based treatment, prevention and recovery support over enforcement - which is this organization's entire service model, delivered with named modalities (TIC, CBT, EMDR, Motivational Interviewing, Seeking Safety) and existing court and IDRC referral pathways.",
+    "a_tailwind_worth_knowing": "The State Comptroller is scrutinising misuse of opioid settlement funds by Essex-area municipalities - roughly $370,000 paid to entertainment companies in Irvington, and a Nutley youth police academy with no drug-specific content. Under that scrutiny, counties need credible, plainly on-mission grantees with documented clinical approaches. That is an advantage for this organization, not a risk.",
+    "also_noted": "The state separately allocated $10.5M over three years for housing and services for medically complex individuals in Essex, administered at state level rather than by the county.",
+    "action": "Contact Essex County Department of Health and Human Services about the opioid abatement strategic plan and how community providers can be included. Ask for the needs assessment - it names the gaps the county has already decided it has, which is the statement of need written by the funder itself."
+  },
+  "monitoring_source": {
+    "url": "https://www.nj.gov/opioidfunds/",
+    "why": "New Jersey publishes per-county opioid abatement reports here. They disclose each county's unspent balance, framework, and whether allocations are final - which is advance notice of where money is sitting undirected. Worth checking for Essex, Bergen, Union and Somerset each cycle; this is the single best recurring source found for this organization's strategy.",
+    "found": "2026-11-09"
   }
 }
