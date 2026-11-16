@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_run": "2026-11-09",
+  "last_run": "2026-11-16",
   "source_note": "Entries below come from an Instrumentl opportunity-match export supplied by the org on 2026-08-19, which supersedes the earlier web-search results. Deadlines and amounts are as listed in that export. Where a deadline had no year, it was read as 2026 (today is 2026-08-19). Eligibility fit is this system's assessment, not the funder's \u2014 confirm against each NOFO before investing writing time.",
   "correction": "The 2026-08-19 web-search run recorded HFNJ Standard Grants as closing 2026-08-28. The export shows 2026-11-19. The Aug 28 date was an unverified search snippet and is wrong.",
   "tier_1_act_now": [
@@ -623,5 +623,14 @@
     "url": "https://www.nj.gov/opioidfunds/",
     "why": "New Jersey publishes per-county opioid abatement reports here. They disclose each county's unspent balance, framework, and whether allocations are final - which is advance notice of where money is sitting undirected. Worth checking for Essex, Bergen, Union and Somerset each cycle; this is the single best recurring source found for this organization's strategy.",
     "found": "2026-11-09"
+  },
+  "county_map_status": {
+    "as_of": "2026-11-16",
+    "somerset": "Micro-grant program for 501(c)(3)s; \u2265$450k/yr for 18 years. In pipeline at 40%.",
+    "union": "OBHSM administers ~$17.7M over 18 years; RFA cycles run late winter. In pipeline at 30%.",
+    "morris": "Published priorities, $5,000 minimum request. In pipeline at 20%.",
+    "essex": "~$3.0M unspent and uncommitted, allocations not finalized. The strongest opening - a conversation rather than a competition.",
+    "bergen": "STILL UNRESOLVED. Search surfaced nothing for Bergen specifically. Its FY2026 abatement report almost certainly exists on the state portal - the Essex one was found at nj.gov/opioidfunds/documents/reports/2026-counties/FY26%20Essex%20County.pdf, so the same pattern with 'Bergen' should reach it. That report would disclose Bergen's unspent balance and whether its allocations are final, exactly as Essex's did.",
+    "note": "Four of five priority-county pictures are complete. These five local pools, taken together, are the most promising funding base identified in three months - and none of them was in the original export."
   }
 }
