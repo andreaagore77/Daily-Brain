@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Personal task lists - never upload these
+tasks.json
+daily-brain-*.json
+
+# Virtual environments and secret keys
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# Mac system files
+.DS_Store
