@@ -1,37 +1,9 @@
 {
   "schema_version": 2,
-  "last_run": "2026-11-16",
+  "last_run": "2026-11-23",
   "source_note": "Entries below come from an Instrumentl opportunity-match export supplied by the org on 2026-08-19, which supersedes the earlier web-search results. Deadlines and amounts are as listed in that export. Where a deadline had no year, it was read as 2026 (today is 2026-08-19). Eligibility fit is this system's assessment, not the funder's \u2014 confirm against each NOFO before investing writing time.",
   "correction": "The 2026-08-19 web-search run recorded HFNJ Standard Grants as closing 2026-08-28. The export shows 2026-11-19. The Aug 28 date was an unverified search snippet and is wrong.",
   "tier_1_act_now": [
-    {
-      "title": "Standard Grants",
-      "funder": "The Healthcare Foundation of New Jersey",
-      "grant_type": "private_foundation",
-      "amount": "Unspecified (search indicated $35,000+)",
-      "deadline": "2026-11-19",
-      "fit": "strong_geographic",
-      "summary": "Greater Newark plus the Greater MetroWest footprint (Essex, Morris, Somerset, Union, parts of Sussex) \u2014 overlaps three of four priority counties. Reported recent emphasis on youth and behavioral health.",
-      "watch_out": "Confirm whether an org with no Jewish Federation affiliation qualifies under the 'targeted vulnerable populations elsewhere in Essex, Morris, and Union' clause.",
-      "first_seen": "2026-08-19",
-      "status": "open",
-      "positive_signal": "Behavioral health constitutes the MAJORITY of HFNJ's non-hospital grantmaking, and it awarded roughly $2.2-2.3M to Newark hospitals and behavioral health in Q4 2025 alone. Confirmed 2026-08-23 - the programmatic fit is strong.",
-      "still_open": "No source explicitly states whether a non-Federation-affiliated org can apply under the greater Newark track. Framing suggests greater Newark is served broadly, but this remains the one open eligibility question. Ask HFNJ directly.",
-      "affiliation_question_RESOLVED": "RESOLVED 2026-10-19 by examining actual 2026 grantees. The overwhelming majority are SECULAR community nonprofits with no Jewish Federation affiliation: Northwest Essex Community Healthcare Network ($300,000, coordinated behavioral health for vulnerable youth and families), Central Jersey Medical Center ($105,842, school-based behavioral health case manager at two Newark schools), Postpartum Support International ($102,500, perinatal mental health in Newark), NJ Chapter of the American Academy of Pediatrics ($90,557), Helen Keller International ($115,000), Visiting Nurse Association of Central NJ ($127,924, Essex County doula program), Breakthrough T1D ($50,000), Family Service League ($100,000 core operating). Only Moving Traditions and JESPY House are Jewish-affiliated. The greater Newark track is plainly open to secular organizations - this was the single longest-standing open question in the pipeline, flagged 2026-08-19.",
-      "scale": "HFNJ awarded roughly $5 million across the first three quarters of 2026 - $2.19M in Q1, $686k in Q2, $2.14M across 11 nonprofits in Q3. This is a substantial, active funder, not a marginal one.",
-      "closest_comparator": "Northwest Essex Community Healthcare Network's $300,000 award for coordinated behavioral health services for vulnerable youth and families is the closest analogue in the grantee list to this organization's work. It both validates the fit and names a credible partner or benchmark competitor.",
-      "fit_revised": "Raised 25% -> 30% on 2026-10-19: the one eligibility barrier is gone.",
-      "TWO_STEP_PROCESS_FOUND": "CRITICAL, found 2026-10-26. Standard applicants cannot submit a proposal directly. They must FIRST complete an Initial Request for Funding Form; HFNJ then contacts those it wants to move forward, and the full application link is only released after that permission. So 2026-11-19 is the deadline for a proposal the org is not yet eligible to submit.",
-      "what_to_do_now": "Submit the Initial Request for Funding Form immediately. It is the gate, it is short, and HFNJ needs time to review it and respond before 2026-11-19. With 24 days left, the two-step sequence is already tight - this is the single most time-sensitive action in the pipeline, and it is small.",
-      "application_materials": "Application text, a grant application logic model, and a grant application budget. Supplemental: project budget and IRS 501(c)(3) determination letter. Most common award type is a 12-month project grant.",
-      "budget_form_detail": "Columns for agency resources, reimbursements and fees, other grants (marked requested or granted), and the HFNJ request. Only the HFNJ Request column is required to submit. Income must equal expenses.",
-      "indirect_costs": "NOT automatically funded - considered case by case. This is the opposite of the federal posture recorded in the org kit, where the 10% de minimis rate should always be elected. Do not carry that advice across to HFNJ.",
-      "review_criterion_to_note": "Sustainability plans play a CRITICAL role in proposal review, per HFNJ's own guidelines. The org kit has a sustainability section and it is entirely placeholdered - this is the section to write first, not last.",
-      "scope_confirmed": "HFNJ accepts applications only in medical and behavioral health care - which explicitly includes behavioral health, workforce training, and public health and prevention. The org sits squarely inside this. It no longer accepts food insecurity, general transportation, or research.",
-      "date_conflict_noted": "A third-party listing gives a 2026-05-20 Community Health Grants deadline, which has passed and conflicts with HFNJ's own page. Rely on hfnj.org: 2026-11-19.",
-      "source": "https://hfnj.org/applications-deadlines/ and https://hfnj.org/grant-guidelines/",
-      "revised_recommendation": "As of 2026-11-02, 17 days is not enough for the two-step process: HFNJ must receive the Initial Request, review it, invite the org forward, and then receive a full proposal with logic model and budget. Target 2027-02-10 instead - 100 days, funding starting July 2027. Submit the Initial Request for Funding Form NOW regardless: it is short, it starts the relationship, and HFNJ may hold a late request for the next cycle."
-    },
     {
       "title": "Core Operating Support grants",
       "funder": "The Healthcare Foundation of New Jersey",
@@ -253,13 +225,6 @@
     }
   ],
   "tier_3_possible_needs_research": [
-    {
-      "title": "Preventive Health Services Grant Program",
-      "funder": "NJ Department of Health",
-      "amount": "Up to $535,000",
-      "deadline": "2026-11-17",
-      "note": "Check whether community nonprofits are eligible applicants or whether this flows to local health departments."
-    },
     {
       "title": "Omnibus Eviction and Homelessness Prevention (OEHP)",
       "funder": "NJ Department of Community Affairs",
@@ -543,6 +508,45 @@
       "note": "Never pursued. SJI funds state court systems, so the only route was as named partner on a court-led application - which needed a court to initiate months earlier.",
       "status": "EXPIRED 2026-11-01",
       "closed_on": "2026-11-02"
+    },
+    {
+      "title": "Standard Grants",
+      "funder": "The Healthcare Foundation of New Jersey",
+      "grant_type": "private_foundation",
+      "amount": "Unspecified (search indicated $35,000+)",
+      "deadline": "2026-11-19",
+      "fit": "strong_geographic",
+      "summary": "Greater Newark plus the Greater MetroWest footprint (Essex, Morris, Somerset, Union, parts of Sussex) \u2014 overlaps three of four priority counties. Reported recent emphasis on youth and behavioral health.",
+      "watch_out": "Confirm whether an org with no Jewish Federation affiliation qualifies under the 'targeted vulnerable populations elsewhere in Essex, Morris, and Union' clause.",
+      "first_seen": "2026-08-19",
+      "status": "EXPIRED 2026-11-19",
+      "positive_signal": "Behavioral health constitutes the MAJORITY of HFNJ's non-hospital grantmaking, and it awarded roughly $2.2-2.3M to Newark hospitals and behavioral health in Q4 2025 alone. Confirmed 2026-08-23 - the programmatic fit is strong.",
+      "still_open": "No source explicitly states whether a non-Federation-affiliated org can apply under the greater Newark track. Framing suggests greater Newark is served broadly, but this remains the one open eligibility question. Ask HFNJ directly.",
+      "affiliation_question_RESOLVED": "RESOLVED 2026-10-19 by examining actual 2026 grantees. The overwhelming majority are SECULAR community nonprofits with no Jewish Federation affiliation: Northwest Essex Community Healthcare Network ($300,000, coordinated behavioral health for vulnerable youth and families), Central Jersey Medical Center ($105,842, school-based behavioral health case manager at two Newark schools), Postpartum Support International ($102,500, perinatal mental health in Newark), NJ Chapter of the American Academy of Pediatrics ($90,557), Helen Keller International ($115,000), Visiting Nurse Association of Central NJ ($127,924, Essex County doula program), Breakthrough T1D ($50,000), Family Service League ($100,000 core operating). Only Moving Traditions and JESPY House are Jewish-affiliated. The greater Newark track is plainly open to secular organizations - this was the single longest-standing open question in the pipeline, flagged 2026-08-19.",
+      "scale": "HFNJ awarded roughly $5 million across the first three quarters of 2026 - $2.19M in Q1, $686k in Q2, $2.14M across 11 nonprofits in Q3. This is a substantial, active funder, not a marginal one.",
+      "closest_comparator": "Northwest Essex Community Healthcare Network's $300,000 award for coordinated behavioral health services for vulnerable youth and families is the closest analogue in the grantee list to this organization's work. It both validates the fit and names a credible partner or benchmark competitor.",
+      "fit_revised": "Raised 25% -> 30% on 2026-10-19: the one eligibility barrier is gone.",
+      "TWO_STEP_PROCESS_FOUND": "CRITICAL, found 2026-10-26. Standard applicants cannot submit a proposal directly. They must FIRST complete an Initial Request for Funding Form; HFNJ then contacts those it wants to move forward, and the full application link is only released after that permission. So 2026-11-19 is the deadline for a proposal the org is not yet eligible to submit.",
+      "what_to_do_now": "Submit the Initial Request for Funding Form immediately. It is the gate, it is short, and HFNJ needs time to review it and respond before 2026-11-19. With 24 days left, the two-step sequence is already tight - this is the single most time-sensitive action in the pipeline, and it is small.",
+      "application_materials": "Application text, a grant application logic model, and a grant application budget. Supplemental: project budget and IRS 501(c)(3) determination letter. Most common award type is a 12-month project grant.",
+      "budget_form_detail": "Columns for agency resources, reimbursements and fees, other grants (marked requested or granted), and the HFNJ request. Only the HFNJ Request column is required to submit. Income must equal expenses.",
+      "indirect_costs": "NOT automatically funded - considered case by case. This is the opposite of the federal posture recorded in the org kit, where the 10% de minimis rate should always be elected. Do not carry that advice across to HFNJ.",
+      "review_criterion_to_note": "Sustainability plans play a CRITICAL role in proposal review, per HFNJ's own guidelines. The org kit has a sustainability section and it is entirely placeholdered - this is the section to write first, not last.",
+      "scope_confirmed": "HFNJ accepts applications only in medical and behavioral health care - which explicitly includes behavioral health, workforce training, and public health and prevention. The org sits squarely inside this. It no longer accepts food insecurity, general transportation, or research.",
+      "date_conflict_noted": "A third-party listing gives a 2026-05-20 Community Health Grants deadline, which has passed and conflicts with HFNJ's own page. Rely on hfnj.org: 2026-11-19.",
+      "source": "https://hfnj.org/applications-deadlines/ and https://hfnj.org/grant-guidelines/",
+      "revised_recommendation": "As of 2026-11-02, 17 days is not enough for the two-step process: HFNJ must receive the Initial Request, review it, invite the org forward, and then receive a full proposal with logic model and budget. Target 2027-02-10 instead - 100 days, funding starting July 2027. Submit the Initial Request for Funding Form NOW regardless: it is short, it starts the relationship, and HFNJ may hold a late request for the next cycle.",
+      "closed_on": "2026-11-23",
+      "note": "Quarterly funder - next Standard Grant deadline is 2027-02-10, funding from July 2027."
+    },
+    {
+      "title": "Preventive Health Services Grant Program",
+      "funder": "NJ Department of Health",
+      "amount": "Up to $535,000",
+      "deadline": "2026-11-17",
+      "note": "Eligibility was never determined - whether community nonprofits may apply, rather than local health departments, stayed open from the day it entered the pipeline.",
+      "status": "EXPIRED 2026-11-17",
+      "closed_on": "2026-11-23"
     }
   ],
   "status_2026_09_14": {
@@ -632,5 +636,11 @@
     "essex": "~$3.0M unspent and uncommitted, allocations not finalized. The strongest opening - a conversation rather than a competition.",
     "bergen": "STILL UNRESOLVED. Search surfaced nothing for Bergen specifically. Its FY2026 abatement report almost certainly exists on the state portal - the Essex one was found at nj.gov/opioidfunds/documents/reports/2026-counties/FY26%20Essex%20County.pdf, so the same pattern with 'Bergen' should reach it. That report would disclose Bergen's unspent balance and whether its allocations are final, exactly as Essex's did.",
     "note": "Four of five priority-county pictures are complete. These five local pools, taken together, are the most promising funding base identified in three months - and none of them was in the original export."
+  },
+  "network_constraint_diagnosed": {
+    "date": "2026-11-23",
+    "finding": "Tested whether funder pages can be fetched now that a web-fetch capability exists. They cannot: hfnj.org and www.nj.gov both fail at DNS resolution because they are outside this environment's allowed network domains. The failures are permanent for this session, not transient.",
+    "why_it_matters": "This is the single constraint that shaped the whole project. Across three months, search established eligibility facts reliably and dates unreliably, and every near-term recommendation ultimately turned on a page that could not be opened. It cost the SNAP STEPS LOI (the 50/50 question was never settled), produced a wrong HFNJ date in August, a three-week error on Champions in Action, and left NJ Preventive Health's eligibility undetermined until it expired.",
+    "the_fix_is_small": "Allowing two hosts - hfnj.org and www.nj.gov - would unblock HFNJ's guidelines and deadlines plus every county opioid abatement report, which together cover the two funding streams this project concluded are the best fit. That change needs the account owner's approval; it has not been requested, because the project's status is now in question (see below)."
   }
 }
